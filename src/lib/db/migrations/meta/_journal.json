@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791296180882,
+      "tag": "0000_tiny_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791327292732,
+      "tag": "0001_cuddly_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791371180052,
+      "tag": "0002_broken_magus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791381013546,
+      "tag": "0003_uneven_thunderbolts",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791382078325,
+      "tag": "0004_wise_magik",
+      "breakpoints": true
+    }
+  ]
+}
